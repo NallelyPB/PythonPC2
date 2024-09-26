@@ -76,5 +76,5 @@ def convertir_fecha(fecha):
 fecha_usuario = input("Ingrese una fecha (MM/DD/AAAA o 'Mes día, año'): ")
 resultado = convertir_fecha(fecha_usuario)
 
-print("Fecha en formato AAAA-MM-DD:", resultado)
+print("Fecha en formato AAAA-MM-DD:", resultado) 
 
